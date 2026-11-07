@@ -178,7 +178,8 @@ open:
   Marginalia (apps 889280 and 4559530). A web search found no "MARGINALIA" mark
   for games, but found a 2021 USPTO filing for "MARGINAL" that covers game
   software.
-- No Chinese name is chosen. 旁批 was proposed.
+- Decided on 2026-11-07: use the English name only for now. No Chinese name is
+  chosen; 旁批 was proposed.
 
 The questions below were discussed on 2026-10-31. None of them is decided.
 
